@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="ASF">
+  <title>AI SecForce monogram</title>
+  <rect width="512" height="512" fill="#050505"/>
+  <g fill="#39FF14">
+    <polygon points="70,400 230,72 268,72 108,400"/>
+  </g>
+  <g fill="none" stroke="#39FF14" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M214 188
+             C168 188 150 220 150 248
+             C150 286 196 298 236 310
+             C276 322 308 338 308 376
+             C308 416 270 442 222 442
+             C180 442 154 422 146 398"/>
+    <circle cx="150" cy="248" r="7" fill="#39FF14" stroke="none"/>
+    <circle cx="236" cy="310" r="7" fill="#39FF14" stroke="none"/>
+    <circle cx="308" cy="376" r="7" fill="#39FF14" stroke="none"/>
+    <circle cx="146" cy="398" r="7" fill="#39FF14" stroke="none"/>
+  </g>
+  <g fill="#39FF14">
+    <polygon points="292,188 324,188 324,400 292,400"/>
+    <polygon points="292,188 430,188 430,220 292,220"/>
+    <polygon points="292,286 396,286 396,314 292,314"/>
+  </g>
+</svg>

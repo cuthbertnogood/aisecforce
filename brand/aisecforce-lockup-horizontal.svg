@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 280" role="img" aria-label="AI SecForce">
+  <title>AI SecForce lockup</title>
+  <rect width="980" height="280" fill="#050505"/>
+  <g fill="none" stroke="#39FF14" stroke-linejoin="round" stroke-linecap="round">
+    <polygon stroke-width="5" points="140,36 228,86 228,186 140,236 52,186 52,86"/>
+    <path stroke-width="2.2" d="
+      M86 86 V118 M86 86 H110
+      M194 86 V118 M194 86 H170
+      M70 140 H96 M210 140 H184
+      M86 194 V162 M194 194 V162
+      M110 194 H86 M170 194 H194"/>
+    <circle cx="86" cy="86" r="3.2" fill="#39FF14" stroke="none"/>
+    <circle cx="194" cy="86" r="3.2" fill="#39FF14" stroke="none"/>
+    <circle cx="70" cy="140" r="3.2" fill="#39FF14" stroke="none"/>
+    <circle cx="210" cy="140" r="3.2" fill="#39FF14" stroke="none"/>
+    <circle cx="86" cy="194" r="3.2" fill="#39FF14" stroke="none"/>
+    <circle cx="194" cy="194" r="3.2" fill="#39FF14" stroke="none"/>
+    <polygon stroke-width="3" points="140,96 112,164 168,164"/>
+  </g>
+  <text x="140" y="148" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#39FF14">AI</text>
+  <text x="280" y="168" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" fill="#39FF14">AI SecForce</text>
+</svg>
